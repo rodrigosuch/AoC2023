@@ -1,6 +1,4 @@
 import re
-regex_game = 'Game \d+'
-regex_color = '\d+ [a-zA-Z]+'
 
 power = 0
 
